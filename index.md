@@ -1,4 +1,3 @@
-```
 ---
 ---
 
@@ -80,5 +79,3 @@ Studies CD248, a membrane protein highly expressed on pericyte precursor cells, 
   title="CD248 in Pericyte Biology and Cancer Microenvironment"
   text=text
 %}
-
-```
