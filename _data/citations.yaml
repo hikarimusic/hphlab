@@ -11,6 +11,7 @@
   date: '2026-02-19'
   link: https://doi.org/hbq9hq
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/cancers17233815
@@ -28,6 +29,7 @@
   date: '2025-11-28'
   link: https://doi.org/hbq9hr
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/cancers17030459
@@ -41,6 +43,7 @@
   date: '2025-01-29'
   link: https://doi.org/g98x5m
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.5534/wjmh.230344
@@ -67,6 +70,7 @@
   date: '2025-01-01'
   link: https://doi.org/hbq9hs
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41419-024-06692-9
@@ -85,6 +89,7 @@
   date: '2024-04-29'
   link: https://doi.org/hbq9ht
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/0008-5472.c.6514205
@@ -103,6 +108,7 @@
   date: '2023-03-31'
   link: https://doi.org/hbq9hv
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/0008-5472.c.6514205.v1
@@ -121,6 +127,7 @@
   date: '2023-03-31'
   link: https://doi.org/hbq9hw
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/0008-5472.22432658
@@ -139,6 +146,7 @@
   date: '2023-03-31'
   link: https://doi.org/hbq9hx
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/0008-5472.22432658.v1
@@ -157,6 +165,7 @@
   date: '2023-03-31'
   link: https://doi.org/hbq9hz
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1242/dmm.049471
@@ -174,6 +183,7 @@
   date: '2022-12-01'
   link: https://doi.org/hbq9h2
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/0008-5472.CAN-22-1695
@@ -192,6 +202,7 @@
   date: '2022-08-11'
   link: https://doi.org/hbq9h3
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1073/pnas.2203632119
@@ -215,6 +226,7 @@
   date: '2022-08-11'
   link: https://doi.org/hbq9h5
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41416-020-01086-y
@@ -230,6 +242,7 @@
   date: '2020-09-23'
   link: https://doi.org/hbq9h6
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41598-020-60001-w
@@ -254,6 +267,7 @@
   date: '2020-02-13'
   link: https://doi.org/hbq9h7
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/s12929-020-00682-7
@@ -290,6 +304,7 @@
   date: '2020-09-04'
   link: https://doi.org/hbq9h8
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41388-020-01413-w
@@ -314,6 +329,7 @@
   date: '2020-08-10'
   link: https://doi.org/gsjd38
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41416-019-0400-2
@@ -335,6 +351,7 @@
   date: '2019-02-15'
   link: https://doi.org/hbq9h9
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41598-018-37774-2
@@ -352,6 +369,7 @@
   date: '2019-02-04'
   link: https://doi.org/hbq9jb
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/hmg/ddz218
@@ -368,6 +386,7 @@
   date: '2019-09-13'
   link: https://doi.org/hbq9jc
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/s13287-018-1092-x
@@ -384,6 +403,7 @@
   date: '2018-12-01'
   link: https://doi.org/gf4372
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/onc.2017.82
@@ -409,6 +429,7 @@
   date: '2017-04-03'
   link: https://doi.org/f9xpkj
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.18632/oncotarget.15308
@@ -425,6 +446,7 @@
   date: '2017-02-14'
   link: https://doi.org/f9rb7c
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41598-017-15415-4
@@ -448,6 +470,7 @@
   date: '2017-11-08'
   link: https://doi.org/gcjt3n
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/s12929-016-0218-7
@@ -462,6 +485,7 @@
   date: '2016-01-15'
   link: https://doi.org/f76wqq
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/0008-5472.CAN-14-3297
@@ -483,6 +507,7 @@
   date: '2015-07-14'
   link: https://doi.org/f7mhmq
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - title: Characteristic expression of major histocompatibility complex and immune
@@ -491,6 +516,7 @@
   date: '2022-05-24'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84928954783&partnerID=MN8TOARS
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/s13287-015-0005-5
@@ -510,6 +536,7 @@
   date: '2015-02-27'
   link: https://doi.org/f7kvsc
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1073/pnas.1507499112
@@ -535,6 +562,7 @@
   date: '2015-05-26'
   link: https://doi.org/f7frfc
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/hep.26640
@@ -553,6 +581,7 @@
   date: '2014-01-01'
   link: https://doi.org/grp9ht
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/onc.2013.412
@@ -577,6 +606,7 @@
   date: '2013-10-14'
   link: https://doi.org/f6hd6b
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3324/haematol.2011.050187
@@ -594,6 +624,7 @@
   date: '2012-09-14'
   link: https://doi.org/f4z7kw
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/hmg/dds085
@@ -617,6 +648,7 @@
   date: '2012-03-13'
   link: https://doi.org/hbq9jd
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/scrt125
@@ -630,6 +662,7 @@
   date: '2012-08-28'
   link: https://doi.org/hbq9jf
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/hep.24657
@@ -657,6 +690,7 @@
   date: '2012-01-01'
   link: https://doi.org/bc2xgz
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/hep.25773
@@ -682,6 +716,7 @@
   date: '2012-11-01'
   link: https://doi.org/hbq9jg
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1073/pnas.1116386108
@@ -702,6 +737,7 @@
   date: '2011-10-31'
   link: https://doi.org/c78w9f
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1074/jbc.M111.256164
@@ -724,6 +760,7 @@
   date: '2011-09-01'
   link: https://doi.org/bxzfjx
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.gep.2011.03.001
@@ -744,6 +781,7 @@
   date: '2011-06-01'
   link: https://doi.org/c54pkr
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/hmg/ddr424
@@ -767,6 +805,7 @@
   date: '2011-09-15'
   link: https://doi.org/b5krcq
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.jhep.2011.01.047
@@ -784,6 +823,7 @@
   date: '2011-11-01'
   link: https://doi.org/cwmmcb
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s12015-011-9233-y
@@ -802,6 +842,7 @@
   date: '2011-02-09'
   link: https://doi.org/bd96pz
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/JVI.02164-09
@@ -820,6 +861,7 @@
   date: '2010-04-01'
   link: https://doi.org/dfcpxx
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1074/jbc.M110.122093
@@ -842,6 +884,7 @@
   date: '2010-10-01'
   link: https://doi.org/ffvfwx
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.2353/ajpath.2010.100228
@@ -862,6 +905,7 @@
   date: '2010-12-01'
   link: https://doi.org/bhzj54
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1203/PDR.0b013e3181c1b0b7
@@ -881,6 +925,7 @@
   date: '2010-01-01'
   link: https://doi.org/dw3dpq
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/1078-0432.CCR-09-3389
@@ -900,6 +945,7 @@
   date: '2010-10-31'
   link: https://doi.org/ck9xtq
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/jcb.22740
@@ -921,12 +967,14 @@
   date: '2010-06-21'
   link: https://doi.org/dvf5rh
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - title: Eye anomalies and neurological manifestations in patients with PAX6 mutations.
   date: '2022-05-23'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-73449142524&partnerID=MN8TOARS
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1523/JNEUROSCI.4497-06.2007
@@ -949,12 +997,14 @@
   date: '2007-03-07'
   link: https://doi.org/fk88v9
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - title: Tandem mass neonatal screening in Taiwan - Report from one center
   date: '2022-05-23'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-33845874403&partnerID=MN8TOARS
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/j.1440-1746.2005.03789.x
@@ -975,6 +1025,7 @@
   date: '2005-07-01'
   link: https://doi.org/btxfjb
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - title: Viral infections and prolonged fever after liver transplantation in young
@@ -982,6 +1033,7 @@
   date: '2022-05-23'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-33644648049&partnerID=MN8TOARS
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/S0887-8994(03)00418-1
@@ -996,12 +1048,14 @@
   date: '2004-02-01'
   link: https://doi.org/fsrtwr
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - title: 'Kawasaki disease associated with chickenpox: Report of two sibling cases'
   date: '2022-05-23'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-3142758626&partnerID=MN8TOARS
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1210/me.16.3.541
@@ -1012,6 +1066,7 @@
   date: '2002-03-01'
   link: https://doi.org/djszvn
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1073/pnas.141234898
@@ -1029,6 +1084,7 @@
   date: '2001-07-10'
   link: https://doi.org/cg6gjw
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/MCB.20.9.3292-3307.2000
@@ -1046,12 +1102,14 @@
   date: '2000-05-01'
   link: https://doi.org/b368m8
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - title: Transcription factors involved in pancreatic islet development
   date: '2022-05-23'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-0033955566&partnerID=MN8TOARS
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/S1054-3589(08)60114-3
@@ -1064,6 +1122,7 @@
   date: '1999-01-01'
   link: https://doi.org/ccttps
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - title: Diabetes, defective pancreatic morphogenesis, and abnormal enteroendocrine
@@ -1071,6 +1130,7 @@
   date: '2022-05-23'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-0030886674&partnerID=MN8TOARS
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
 - title: BETA3, a novel helix-loop-helix protein, can act as a negative regulator
@@ -1078,5 +1138,6 @@
   date: '2022-05-23'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-0030048769&partnerID=MN8TOARS
   orcid: 0000-0002-3382-305X
+  Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
