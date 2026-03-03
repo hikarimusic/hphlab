@@ -1,47 +1,32 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Serine Protease Cascade and Inhibitors in Stem Cells and Disease
+  subtitle: Roles in stem cell differentiation, organ development, and cancer
   group: featured
-  image: images/photo.jpg
+  image: images/serine_protease.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Investigates the hierarchical regulatory roles of membrane-bound serine proteases and their inhibitors in epithelial homeostasis and tumor progression. Our lab discovered that specific serine proteases and inhibitors play important but opposing roles in hepatic stem cell differentiation and cholangiopathy such as biliary atresia. Current efforts use human pluripotent stem cells, knockout mouse models, and omics approaches to systematically dissect their roles in stem cell differentiation, organ development, and prostate cancer tumor stem cells.
   repo: greenelab/lab-website-template
   tags:
     - resource
     - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
+- title: iPSC-Based Disease Modeling for Lysosomal Storage Disorders and Autism
+  subtitle: Patient-derived iPSCs for pathogenesis study and drug screening
+  group: featured
+  image: images/iPSC_MPS.png
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Uses induced pluripotent stem cell (iPSC) technology to establish _in vitro_ models of human genetic diseases for studying disease mechanisms and screening potential therapeutics. Our lab generated the world's first peer-reviewed human Pompe disease iPSCs (Human Molecular Genetics, 2011) and later identified therapeutic small molecules using iPSC-derived neurons (Human Molecular Genetics, 2019). Current work extends to other lysosomal storage disorders such as mucopolysaccharidosis, revealing morphological and electrophysiological abnormalities in patient-derived neurons, and to familial autism spectrum disorder iPSC modeling in collaboration with psychiatry and neuroscience groups.
   repo: greenelab/lab-website-template
   tags:
-    - software
+    - resource
+    - publication
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
+- title: CD248 in Pericyte Biology and Cancer Microenvironment
+  subtitle: Pericyte precursor membrane protein in tumor angiogenesis and progression
+  group: featured
+  image: images/CD248.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Studies CD248, a membrane protein highly expressed on pericyte precursor cells, and its role in cancer. Using CD248 knockout mice, we found that CD248 promotes lung cancer progression within the tumor microenvironment by activating the Wnt/beta-catenin pathway to upregulate angiogenesis factor transcription and stimulate tumor neovascularization. Beyond cancer, CD248 also plays important roles in the maintenance, differentiation, and plasticity of pericyte progenitors, which our lab is actively investigating.
   repo: greenelab/lab-website-template
   tags:
-    - software
+    - resource
+    - publication

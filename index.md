@@ -1,9 +1,9 @@
 ---
 ---
 
-# hikarimusic's Website
+# HSP Lab's Website
 
-An engaging 1-3 sentence description of your lab.
+Graduate Institute of Medical Genomics and Proteomics, College of Medicine, National Taiwan University, Taipei, Taiwan
 
 {% include section.html %}
 
