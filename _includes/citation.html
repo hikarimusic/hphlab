@@ -8,10 +8,11 @@
   {% assign citation = include %}
 {% endif %}
 
+{% if citation.id %}
 <div class="citation-container">
   <div class="citation">
     {% if include.style == "rich" %}
-      <a
+      
         {% if citation.link %}
           href="{{ citation.link | relative_url | uri_escape }}"
         {% endif %}
@@ -31,7 +32,7 @@
       {% assign type = site.data.types[citation.type] %}
       {% include icon.html icon=type.icon %}
 
-      <a
+      
         {% if citation.link %}
           href="{{ citation.link | relative_url | xml_escape }}"
         {% endif %}
@@ -107,3 +108,4 @@
     </div>
   </div>
 </div>
+{% endif %}
