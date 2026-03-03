@@ -14,7 +14,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="CD248 Regulates Wnt Signaling in Pericytes to Promote Angiogenesis and Tumor Growth in Lung Cancer" style="rich" %}
 
 {% include section.html %}
 
