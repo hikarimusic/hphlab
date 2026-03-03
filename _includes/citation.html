@@ -8,7 +8,10 @@
   {% assign citation = include %}
 {% endif %}
 
-{% if citation.id %}
+{% assign citation_id = citation.id | default: "" | strip %}
+{% if citation_id == "" %}
+  {% comment %} Skip citations with no id {% endcomment %}
+{% else %}
 <div class="citation-container">
   <div class="citation">
     {% if include.style == "rich" %}
