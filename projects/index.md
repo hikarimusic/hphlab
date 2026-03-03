@@ -17,6 +17,4 @@ Our research focuses on three major directions: dissecting the roles of serine p
 
 ## Featured
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" % }
-
-{% include section.html %}
+{% include list.html component="card" data="projects" filter="group == 'featured'" %}

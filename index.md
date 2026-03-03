@@ -1,3 +1,4 @@
+```
 ---
 ---
 
@@ -11,12 +12,12 @@ Graduate Institute of Medical Genomics and Proteomics, College of Medicine, Nati
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Investigates the hierarchical regulatory roles of membrane-bound serine proteases and their inhibitors in epithelial homeostasis and tumor progression, and dissects their functions in stem cell differentiation, organ development, and prostate cancer tumor stem cells.
 
 {%
   include button.html
-  link="research"
-  text="See our publications"
+  link="projects"
+  text="Learn more"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -26,20 +27,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
+  image="images/serine_protease.jpg"
+  link="projects"
+  title="Serine Protease Cascade and Inhibitors in Stem Cells and Disease"
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Uses induced pluripotent stem cell (iPSC) technology to establish in vitro models of human genetic diseases, including Pompe disease and mucopolysaccharidosis, for studying disease mechanisms, screening potential therapeutics, and modeling familial autism spectrum disorder.
 
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="Learn more"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -49,9 +50,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/iPSC_MPS.png"
   link="projects"
-  title="Our Projects"
+  title="iPSC-Based Disease Modeling for Lysosomal Storage Disorders and Autism"
   flip=true
   style="bare"
   text=text
@@ -59,12 +60,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Studies CD248, a membrane protein highly expressed on pericyte precursor cells, and its role in promoting lung cancer progression through the Wnt/beta-catenin pathway, as well as its functions in pericyte progenitor maintenance, differentiation, and plasticity.
 
 {%
   include button.html
-  link="team"
-  text="Meet our team"
+  link="projects"
+  text="Learn more"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -74,8 +75,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
+  image="images/CD248.jpg"
+  link="projects"
+  title="CD248 in Pericyte Biology and Cancer Microenvironment"
   text=text
 %}
+
+```
