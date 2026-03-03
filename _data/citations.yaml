@@ -1,191 +1,1083 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.3390/ijms27042000
+  title: 'Membrane-Anchored Serine Protease Inhibitors: Physiological Functions, Mechanisms,
+    and Roles in Cancer'
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Cold Spring Harbor Laboratory
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  - Chun-Ying Chen
+  - Tai-No Lin
+  - Hsiang-Po Huang
+  publisher: International Journal of Molecular Sciences
+  date: '2026-02-19'
+  link: https://doi.org/hbq9hq
+  orcid: 0000-0002-3382-305X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.3390/cancers17233815
+  title: Metabolomics-Based Liquid Biopsy for Predicting Clinically Significant Prostate
+    Cancer
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Yuan-Chi Lin
+  - Chung-Hsin Chen
+  - Ming-Shyue Lee
+  - Cheng-Fan Lee
+  - Pei-Wen Hsiao
+  - Hsiang-Po Huang
+  - Yeong-Shiau Pu
+  publisher: Cancers
+  date: '2025-11-28'
+  link: https://doi.org/hbq9hr
+  orcid: 0000-0002-3382-305X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.3390/cancers17030459
+  title: 'Optimizing Osimertinib for NSCLC: Targeting Resistance and Exploring Combination
+    Therapeutics'
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Yan-You Liao
+  - Chia-Luen Tsai
+  - Hsiang-Po Huang
+  publisher: Cancers
+  date: '2025-01-29'
+  link: https://doi.org/g98x5m
+  orcid: 0000-0002-3382-305X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.5534/wjmh.230344
+  title: Predicting Clinically Significant Prostate Cancer Using Urine Metabolomics
+    via Liquid Chromatography Mass Spectrometry
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Chung-Hsin Chen
+  - Hsiang-Po Huang
+  - Kai-Hsiung Chang
+  - Ming-Shyue Lee
+  - Cheng-Fan Lee
+  - Chih-Yu Lin
+  - Yuan Chi Lin
+  - William J. Huang
+  - Chun-Hou Liao
+  - Chih-Chin Yu
+  - Shiu-Dong Chung
+  - Yao-Chou Tsai
+  - Chia-Chang Wu
+  - Chen-Hsun Ho
+  - Pei-Wen Hsiao
+  - Yeong-Shiau Pu
+  publisher: The World Journal of Men's Health
+  date: '2025-01-01'
+  link: https://doi.org/hbq9hs
+  orcid: 0000-0002-3382-305X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1038/s41419-024-06692-9
+  title: "Mature neurons from iPSCs unveil neurodegeneration-related pathways in mucopolysaccharidosis\
+    \ type II: GSK-3\u03B2 inhibition for therapeutic potential"
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Tzu-Yu Chen
+  - Shuan-Pei Lin
+  - De-Fong Huang
+  - Hsien-Sung Huang
+  - Feng-Chiao Tsai
+  - Li-Jen Lee
+  - Hsiang-Yu Lin
+  - Hsiang-Po Huang
+  publisher: Cell Death &amp; Disease
+  date: '2024-04-29'
+  link: https://doi.org/hbq9ht
+  orcid: 0000-0002-3382-305X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1158/0008-5472.c.6514205
+  title: Data from CD248 Regulates Wnt Signaling in Pericytes to Promote Angiogenesis
+    and Tumor Growth in Lung Cancer
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Chia-Lun Hong
+  - I-Shing Yu
+  - Chen-Hsueh Pai
+  - Jin-Shing Chen
+  - Min-Shu Hsieh
+  - Hua-Lin Wu
+  - Shu-Wha Lin
+  - Hsiang-Po Huang
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-03-31'
+  link: https://doi.org/hbq9hv
+  orcid: 0000-0002-3382-305X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1158/0008-5472.c.6514205.v1
+  title: Data from CD248 Regulates Wnt Signaling in Pericytes to Promote Angiogenesis
+    and Tumor Growth in Lung Cancer
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Chia-Lun Hong
+  - I-Shing Yu
+  - Chen-Hsueh Pai
+  - Jin-Shing Chen
+  - Min-Shu Hsieh
+  - Hua-Lin Wu
+  - Shu-Wha Lin
+  - Hsiang-Po Huang
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-03-31'
+  link: https://doi.org/hbq9hw
+  orcid: 0000-0002-3382-305X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1158/0008-5472.22432658
+  title: Supplementary Data from CD248 Regulates Wnt Signaling in Pericytes to Promote
+    Angiogenesis and Tumor Growth in Lung Cancer
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Chia-Lun Hong
+  - I-Shing Yu
+  - Chen-Hsueh Pai
+  - Jin-Shing Chen
+  - Min-Shu Hsieh
+  - Hua-Lin Wu
+  - Shu-Wha Lin
+  - Hsiang-Po Huang
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-03-31'
+  link: https://doi.org/hbq9hx
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.22432658.v1
+  title: Supplementary Data from CD248 Regulates Wnt Signaling in Pericytes to Promote
+    Angiogenesis and Tumor Growth in Lung Cancer
+  authors:
+  - Chia-Lun Hong
+  - I-Shing Yu
+  - Chen-Hsueh Pai
+  - Jin-Shing Chen
+  - Min-Shu Hsieh
+  - Hua-Lin Wu
+  - Shu-Wha Lin
+  - Hsiang-Po Huang
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-03-31'
+  link: https://doi.org/hbq9hz
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1242/dmm.049471
+  title: An induced pluripotent stem cell-based model identifies molecular targets
+    of vincristine neurotoxicity
+  authors:
+  - Neng-Wei Tsai
+  - Cheng-Chen Lin
+  - Ti-Yen Yeh
+  - Yu-An Chiu
+  - Hsin-Hui Chiu
+  - Hsiang-Po Huang
+  - Sung-Tsang Hsieh
+  publisher: Disease Models &amp; Mechanisms
+  date: '2022-12-01'
+  link: https://doi.org/hbq9h2
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.CAN-22-1695
+  title: CD248 Regulates Wnt Signaling in Pericytes to Promote Angiogenesis and Tumor
+    Growth in Lung Cancer
+  authors:
+  - Chia-Lun Hong
+  - I-Shing Yu
+  - Chen-Hsueh Pai
+  - Jin-Shing Chen
+  - Min-Shu Hsieh
+  - Hua-Lin Wu
+  - Shu-Wha Lin
+  - Hsiang-Po Huang
+  publisher: Cancer Research
+  date: '2022-08-11'
+  link: https://doi.org/hbq9h3
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.2203632119
+  title: "Neuronal splicing regulator RBFOX3 mediates seizures via regulating\n  \
+    \          <i>Vamp1</i>\n            expression preferentially in NPY-expressing\
+    \ GABAergic neurons"
+  authors:
+  - De-Fong Huang
+  - Chih-Yu Lee
+  - Ming-Yi Chou
+  - Tzu-Yin Yang
+  - Xuhui Cao
+  - Yu-Hsuan Hsiao
+  - Rui-Ni Wu
+  - Cheng-Chang Lien
+  - Yi-Shuian Huang
+  - Hsiang-Po Huang
+  - Susan Shur-Fen Gau
+  - Hsien-Sung Huang
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2022-08-11'
+  link: https://doi.org/hbq9h5
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41416-020-01086-y
+  title: BCAS2, a protein enriched in advanced prostate cancer, interacts with NBS1
+    to enhance DNA double-strand break repair
+  authors:
+  - Li-Po Wang
+  - Tzu-Yu Chen
+  - Chun-Kai Kang
+  - Hsiang-Po Huang
+  - Show-Li Chen
+  publisher: British Journal of Cancer
+  date: '2020-09-23'
+  link: https://doi.org/hbq9h6
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-020-60001-w
+  title: 'Author Correction: The Kunitz Domain I of Hepatocyte Growth Factor Activator
+    Inhibitor-2 Inhibits Matriptase Activity and Invasive Ability of Human Prostate
+    Cancer Cells'
+  authors:
+  - Shang-Ru Wu
+  - Chen-Hsin Teng
+  - Ya-Ting Tu
+  - Chun-Jung Ko
+  - Tai-Shan Cheng
+  - Shao-Wei Lan
+  - Hsin-Ying Lin
+  - Hsin-Hsien Lin
+  - Hsin-Fang Tu
+  - Pei-Wen Hsiao
+  - Hsiang-Po Huang
+  - Chung-Hsin Chen
+  - Ming-Shyue Lee
+  publisher: Scientific Reports
+  date: '2020-02-13'
+  link: https://doi.org/hbq9h7
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12929-020-00682-7
+  title: Copy number variant hotspots in Han Taiwanese population induced pluripotent
+    stem cell lines - lessons from establishing the Taiwan human disease iPSC Consortium
+    Bank
+  authors:
+  - Ching-Ying Huang
+  - Ling-Hui Li
+  - Wan-Tseng Hsu
+  - Yu-Che Cheng
+  - Martin W. Nicholson
+  - Chun-Lin Liu
+  - Chien-Yu Ting
+  - Hui-Wen Ko
+  - Shih-Han Syu
+  - Cheng-Hao Wen
+  - Zhuge Yan
+  - Hsiang-Po Huang
+  - Hong-Lin Su
+  - Po-Min Chiang
+  - Chia-Ning Shen
+  - Hsin-Fu Chen
+  - B. Lin Ju Yen
+  - Huai-En Lu
+  - Shiaw-Min Hwang
+  - Shih-Hwa Chiou
+  - Hong-Nerng Ho
+  - Jer-Yuarn Wu
+  - Timothy J. Kamp
+  - Joseph C. Wu
+  - Patrick C. H. Hsieh
+  publisher: Journal of Biomedical Science
+  date: '2020-09-04'
+  link: https://doi.org/hbq9h8
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41388-020-01413-w
+  title: Inhibition of TMPRSS2 by HAI-2 reduces prostate cancer cell invasion and
+    metastasis
+  authors:
+  - Chun-Jung Ko
+  - Ting-Wei Hsu
+  - Shang-Ru Wu
+  - Shao-Wei Lan
+  - Ting-Feng Hsiao
+  - Hsin-Ying Lin
+  - Hsin-Hsien Lin
+  - Hsin-Fang Tu
+  - Cheng-Fan Lee
+  - Cheng-Chung Huang
+  - Mei-Ju May Chen
+  - Pei-Wen Hsiao
+  - Hsiang-Po Huang
+  - Ming-Shyue Lee
+  publisher: Oncogene
+  date: '2020-08-10'
+  link: https://doi.org/gsjd38
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41416-019-0400-2
+  title: HAI-2 as a novel inhibitor of plasmin represses lung cancer cell invasion
+    and metastasis
+  authors:
+  - Shang-Ru Wu
+  - Chia-Hao Lin
+  - Han-Po Shih
+  - Chun-Jung Ko
+  - Hsin-Ying Lin
+  - Shao-Wei Lan
+  - Hsin-Hsien Lin
+  - Hsin-Fang Tu
+  - Chao-Chi Ho
+  - Hsiang-Po Huang
+  - Ming-Shyue Lee
+  publisher: British Journal of Cancer
+  date: '2019-02-15'
+  link: https://doi.org/hbq9h9
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-018-37774-2
+  title: Modeling spinocerebellar ataxias 2 and 3 with iPSCs reveals a role for glutamate
+    in disease pathology
+  authors:
+  - Ching-Yu Chuang
+  - Chih-Chao Yang
+  - Bing-Wen Soong
+  - Chun-Ying Yu
+  - Shu-Hwa Chen
+  - Hsiang-Po Huang
+  - Hung-Chih Kuo
+  publisher: Scientific Reports
+  date: '2019-02-04'
+  link: https://doi.org/hbq9jb
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/hmg/ddz218
+  title: Using human Pompe disease-induced pluripotent stem cell-derived neural cells
+    to identify compounds with therapeutic potential
+  authors:
+  - Hsiang-Po Huang
+  - Wei Chiang
+  - Lee Stone
+  - Chun-Kai Kang
+  - Ching-Yu Chuang
+  - Hung-Chih Kuo
+  publisher: Human Molecular Genetics
+  date: '2019-09-13'
+  link: https://doi.org/hbq9jc
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13287-018-1092-x
+  title: Induced pluripotent stem cell-derived endothelial progenitor cells attenuate
+    ischemic acute kidney injury and cardiac dysfunction
+  authors:
+  - Wen-Ching Shen
+  - Yu-Hsiang Chou
+  - Hsiang-Po Huang
+  - Jenn-Feng Sheen
+  - Shih-Chieh Hung
+  - Hsin-Fu Chen
+  publisher: Stem Cell Research &amp; Therapy
+  date: '2018-12-01'
+  link: https://doi.org/gf4372
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/onc.2017.82
+  title: Inhibition of cyclooxygenase-2-mediated matriptase activation contributes
+    to the suppression of prostate cancer cell motility and metastasis
+  authors:
+  - C-J Ko
+  - S-W Lan
+  - Y-C Lu
+  - T-S Cheng
+  - P-F Lai
+  - C-H Tsai
+  - T-W Hsu
+  - H-Y Lin
+  - H-Y Shyu
+  - S-R Wu
+  - H-H Lin
+  - P-W Hsiao
+  - C-H Chen
+  - H-P Huang
+  - M-S Lee
+  publisher: Oncogene
+  date: '2017-04-03'
+  link: https://doi.org/f9xpkj
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.18632/oncotarget.15308
+  title: NRIP/DCAF6 stabilizes the androgen receptor protein by displacing DDB2 from
+    the CUL4A-DDB1 E3 ligase complex in prostate cancer
+  authors:
+  - Hsin-Hsiung Chen
+  - Ping Fan
+  - Szu-Wei Chang
+  - Yeou-Ping Tsao
+  - Hsiang-Po Huang
+  - Show-Li Chen
+  publisher: Oncotarget
+  date: '2017-02-14'
+  link: https://doi.org/f9rb7c
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-017-15415-4
+  title: The Kunitz Domain I of Hepatocyte Growth Factor Activator Inhibitor-2 Inhibits
+    Matriptase Activity and Invasive Ability of Human Prostate Cancer Cells
+  authors:
+  - Shang-Ru Wu
+  - Chen-Hsin Teng
+  - Ya-Ting Tu
+  - Chun-Jung Ko
+  - Tai-Shan Cheng
+  - Shao-Wei Lan
+  - Hsin-Ying Lin
+  - Hsin-Hsien Lin
+  - Hsin-Fang Tu
+  - Pei-Wen Hsiao
+  - Hsiang-Po Huang
+  - Chung-Hsin Chen
+  - Ming-Shyue Lee
+  publisher: Scientific Reports
+  date: '2017-11-08'
+  link: https://doi.org/gcjt3n
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12929-016-0218-7
+  title: YC-1 induces lipid droplet formation in RAW 264.7 macrophages
+  authors:
+  - Leo Tsui
+  - Shwu-Fen Chang
+  - Hsiang-Po Huang
+  - Tsorng-Harn Fong
+  - I-Jong Wang
+  publisher: Journal of Biomedical Science
+  date: '2016-01-15'
+  link: https://doi.org/f76wqq
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.CAN-14-3297
+  title: Androgen-Induced TMPRSS2 Activates Matriptase and Promotes Extracellular
+    Matrix Degradation, Prostate Cancer Cell Invasion, Tumor Growth, and Metastasis
+  authors:
+  - Chun-Jung Ko
+  - Cheng-Chung Huang
+  - Hsin-Ying Lin
+  - Chun-Pai Juan
+  - Shao-Wei Lan
+  - Hsin-Yi Shyu
+  - Shang-Ru Wu
+  - Pei-Wen Hsiao
+  - Hsiang-Po Huang
+  - Chia-Tung Shun
+  - Ming-Shyue Lee
+  publisher: Cancer Research
+  date: '2015-07-14'
+  link: https://doi.org/f7mhmq
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Characteristic expression of major histocompatibility complex and immune
+    privilege genes in human pluripotent stem cells and their derivatives
+  publisher: Cell Transplantation
+  date: '2022-05-24'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84928954783&partnerID=MN8TOARS
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13287-015-0005-5
+  title: Granulosa cell-derived induced pluripotent stem cells exhibit pro-trophoblastic
+    differentiation potential
+  authors:
+  - Ching-Yu Chuang
+  - Mei-Chi Huang
+  - Hsin-Fu Chen
+  - Li-Hui Tseng
+  - Chun-Ying Yu
+  - Lee Stone
+  - Hsiang-Po Huang
+  - Hong-Nerng Ho
+  - Hung-Chih Kuo
+  publisher: Stem Cell Research &amp; Therapy
+  date: '2015-02-27'
+  link: https://doi.org/f7kvsc
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.1507499112
+  title: Sorafenib and its derivative SC-1 exhibit antifibrotic effects through signal
+    transducer and activator of transcription 3 inhibition
+  authors:
+  - Tung-Hung Su
+  - Chung-Wai Shiau
+  - Ping Jao
+  - Chen-Hua Liu
+  - Chun-Jen Liu
+  - Wei-Tien Tai
+  - Yung-Ming Jeng
+  - Hung-Chih Yang
+  - Tai-Chung Tseng
+  - Hsiang-Po Huang
+  - Huei-Ru Cheng
+  - Pei-Jer Chen
+  - Kuen-Feng Chen
+  - Jia-Horng Kao
+  - Ding-Shinn Chen
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2015-05-26'
+  link: https://doi.org/f7frfc
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/hep.26640
+  title: Discovery of novel src homology region 2 domain-containing phosphatase 1
+    agonists from sorafenib for the treatment of hepatocellular carcinoma
+  authors:
+  - Wei-Tien Tai
+  - Chung-Wai Shiau
+  - Pei-Jer Chen
+  - Pei-Yi Chu
+  - Hsiang-Po Huang
+  - Chun-Yu Liu
+  - Jui-Wen Huang
+  - Kuen-Feng Chen
+  publisher: Hepatology
+  date: '2014-01-01'
+  link: https://doi.org/grp9ht
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/onc.2013.412
+  title: HAI-2 suppresses the invasive growth and metastasis of prostate cancer through
+    regulation of matriptase
+  authors:
+  - C-H Tsai
+  - C-H Teng
+  - Y-T Tu
+  - T-S Cheng
+  - S-R Wu
+  - C-J Ko
+  - H-Y Shyu
+  - S-W Lan
+  - H-P Huang
+  - S-F Tzeng
+  - M D Johnson
+  - C-Y Lin
+  - P-W Hsiao
+  - M-S Lee
+  publisher: Oncogene
+  date: '2013-10-14'
+  link: https://doi.org/f6hd6b
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3324/haematol.2011.050187
+  title: Cancerous inhibitor of protein phosphatase 2A determines bortezomib-induced
+    apoptosis in leukemia cells
+  authors:
+  - C.-Y. Liu
+  - C.-W. Shiau
+  - H.-Y. Kuo
+  - H.-P. Huang
+  - M.-H. Chen
+  - C.-H. Tzeng
+  - K.-F. Chen
+  publisher: Haematologica
+  date: '2012-09-14'
+  link: https://doi.org/f4z7kw
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/hmg/dds085
+  title: Human Pompe disease-induced pluripotent stem cells for pathogenesis modeling,
+    drug testing and disease marker identification
+  authors:
+  - H.-P. Huang
+  - P.-H. Chen
+  - W.-L. Hwu
+  - C.-Y. Chuang
+  - Y.-H. Chien
+  - L. Stone
+  - C.-L. Chien
+  - L.-T. Li
+  - S.-C. Chiang
+  - H.-F. Chen
+  - H.-N. Ho
+  - C.-H. Chen
+  - H.-C. Kuo
+  publisher: Human Molecular Genetics
+  date: '2012-03-13'
+  link: https://doi.org/hbq9jd
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/scrt125
+  title: Induced pluripotent stem cell technology for disease modeling and drug screening
+    with emphasis on lysosomal storage diseases
+  authors:
+  - Hsiang-Po Huang
+  - Ching-Yu Chuang
+  - Hung-Chih Kuo
+  publisher: Stem Cell Research &amp; Therapy
+  date: '2012-08-28'
+  link: https://doi.org/hbq9jf
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/hep.24657
+  title: Persistent Elevation of Hepatocyte Growth Factor Activator Inhibitors in
+    Cholangiopathies Affects Liver Fibrosis and Differentiation
+  authors:
+  - "Hsiang\u2013Po Huang"
+  - "Mei\u2013Hwei Chang"
+  - "Yi\u2013Tzu Chen"
+  - "Hong\u2013Yuan Hsu"
+  - "Cheng\u2013Lun Chiang"
+  - "Tai\u2013Shan Cheng"
+  - "Yao\u2013Ming Wu"
+  - Mu Zon Wu
+  - "Yu\u2013Chen Hsu"
+  - "Chih\u2013Che Shen"
+  - "Chun\u2013Nan Lee"
+  - "Ya\u2013Hui Chuang"
+  - "Chia\u2013Lun Hong"
+  - "Yung\u2013Ming Jeng"
+  - "Pin\u2013Hsun Chen"
+  - "Huey\u2013Ling Chen"
+  - "Ming\u2013Shyue Lee"
+  publisher: Hepatology
+  date: '2012-01-01'
+  link: https://doi.org/bc2xgz
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/hep.25773
+  title: Serine protease hepsin regulates hepatocyte size and hemodynamic retention
+    of tumor cells by hepatocyte growth factor signaling in mice
+  authors:
+  - Yu-Chen Hsu
+  - Hsiang-Po Huang
+  - I-Shing Yu
+  - Kang-Yi Su
+  - Shu-Rung Lin
+  - Wei-Chou Lin
+  - Hua-Lin Wu
+  - Guey-Yueh Shi
+  - Mi-Hua Tao
+  - Cheng-Heng Kao
+  - Yao-Ming Wu
+  - Patricia E. Martin
+  - Shih-Yao Lin
+  - Pan-Chyr Yang
+  - Shu-Wha Lin
+  publisher: Hepatology
+  date: '2012-11-01'
+  link: https://doi.org/hbq9jg
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.1116386108
+  title: "Depletion of \u03B2-catenin from mature hepatocytes of mice promotes expansion\
+    \ of hepatic progenitor cells and tumor development"
+  authors:
+  - Er-Yea Wang
+  - Shiou-Hwei Yeh
+  - Ting-Fen Tsai
+  - Hsiang-Po Huang
+  - Yung-Ming Jeng
+  - Wei-Hsiang Lin
+  - Wei-Chih Chen
+  - Kun-Huei Yeh
+  - Pei-Jer Chen
+  - Ding-Shinn Chen
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2011-10-31'
+  link: https://doi.org/c78w9f
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1074/jbc.M111.256164
+  title: Epithelial Cell Adhesion Molecule (EpCAM) Complex Proteins Promote Transcription
+    Factor-mediated Pluripotency Reprogramming
+  authors:
+  - Hsiang-Po Huang
+  - Pin-Hsun Chen
+  - Chun-Ying Yu
+  - Ching-Yu Chuang
+  - Lee Stone
+  - Wen-Chu Hsiao
+  - Chung-Leung Li
+  - Shih-Chih Tsai
+  - Kai-Yun Chen
+  - Hsin-Fu Chen
+  - Hong-Nerng Ho
+  - Hung-Chih Kuo
+  publisher: Journal of Biological Chemistry
+  date: '2011-09-01'
+  link: https://doi.org/bxzfjx
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.gep.2011.03.001
+  title: Gene targeting and expression analysis of mouse Tem1/endosialin using a lacZ
+    reporter
+  authors:
+  - Hsiang-Po Huang
+  - Chia-Lun Hong
+  - Chung-Yang Kao
+  - Shu-Wha Lin
+  - Shu-Rung Lin
+  - Hua-Lin Wu
+  - Guey-Yueh Shi
+  - Li-Ru You
+  - Chieh-Lin Wu
+  - I-Shing Yu
+  publisher: Gene Expression Patterns
+  date: '2011-06-01'
+  link: https://doi.org/c54pkr
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/hmg/ddr424
+  title: Human Pompe disease-induced pluripotent stem cells for pathogenesis modeling,
+    drug testing and disease marker identification
+  authors:
+  - Hsiang-Po Huang
+  - Pin-Hsun Chen
+  - Wuh-Liang Hwu
+  - Ching-Yu Chuang
+  - Yin-Hsiu Chien
+  - Lee Stone
+  - Chung-Liang Chien
+  - Li-Tzu Li
+  - Shu-Chuan Chiang
+  - Hsin-Fu Chen
+  - Hong-Nerng Ho
+  - Chung-Hsuan Chen
+  - Hung-Chih Kuo
+  publisher: Human Molecular Genetics
+  date: '2011-09-15'
+  link: https://doi.org/b5krcq
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jhep.2011.01.047
+  title: Signal transducer and activator of transcription 3 is a major kinase-independent
+    target of sorafenib in hepatocellular carcinoma
+  authors:
+  - Wei-Tien Tai
+  - Ann-Lii Cheng
+  - Chung-Wai Shiau
+  - Hsiang-Po Huang
+  - Jui-Wen Huang
+  - Pei-Jer Chen
+  - Kuen-Feng Chen
+  publisher: Journal of Hepatology
+  date: '2011-11-01'
+  link: https://doi.org/cwmmcb
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s12015-011-9233-y
+  title: Surface Marker Epithelial Cell Adhesion Molecule and E-cadherin Facilitate
+    the Identification and Selection of Induced Pluripotent Stem Cells
+  authors:
+  - Hsin-Fu Chen
+  - Ching-Yu Chuang
+  - Wen-Chih Lee
+  - Hsiang-Po Huang
+  - Han-Chung Wu
+  - Hong-Nerng Ho
+  - Yu-Ju Chen
+  - Hung-Chih Kuo
+  publisher: Stem Cell Reviews and Reports
+  date: '2011-02-09'
+  link: https://doi.org/bd96pz
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/JVI.02164-09
+  title: Distinct Hepatitis B Virus Dynamics in the Immunotolerant and Early Immunoclearance
+    Phases
+  authors:
+  - Hurng-Yi Wang
+  - Ming-Hung Chien
+  - Hsiang-Po Huang
+  - Hsiao-Chi Chang
+  - Chung-Che Wu
+  - Pei-Jer Chen
+  - Mei-Hwei Chang
+  - Ding-Shinn Chen
+  publisher: Journal of Virology
+  date: '2010-04-01'
+  link: https://doi.org/dfcpxx
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1074/jbc.M110.122093
+  title: Factors from Human Embryonic Stem Cell-derived Fibroblast-like Cells Promote
+    Topology-dependent Hepatic Differentiation in Primate Embryonic and Induced Pluripotent
+    Stem Cells*
+  authors:
+  - Hsiang-Po Huang
+  - Chun-Ying Yu
+  - Hsin-Fu Chen
+  - Pin-Hsun Chen
+  - Ching-Yu Chuang
+  - Sung-Jan Lin
+  - Shih-Tsung Huang
+  - Wei-Hung Chan
+  - Tzuu-Huei Ueng
+  - Hong-Nerng Ho
+  - Hung-Chih Kuo
+  publisher: Journal of Biological Chemistry
+  date: '2010-10-01'
+  link: https://doi.org/ffvfwx
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2353/ajpath.2010.100228
+  title: Matriptase Is Involved in ErbB-2-Induced Prostate Cancer Cell Invasion
+  authors:
+  - Shang-Ru Wu
+  - Tai-Shan Cheng
+  - Wen-Chi Chen
+  - Hsin-Yi Shyu
+  - Chun-Jung Ko
+  - Hsiang-Po Huang
+  - Chen-Hsin Teng
+  - Chia-Hau Lin
+  - Michael D. Johnson
+  - Chen-Yong Lin
+  - Ming-Shyue Lee
+  publisher: The American Journal of Pathology
+  date: '2010-12-01'
+  link: https://doi.org/bhzj54
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1203/PDR.0b013e3181c1b0b7
+  title: Pre-S2 Deletions of Hepatitis B Virus and Hepatocellular Carcinoma in Children
+  authors:
+  - Hsiang-Po Huang
+  - Hong-Yuan Hsu
+  - Chi-Ling Chen
+  - Yen-Hsuan Ni
+  - Hurng-Yi Wang
+  - Daw-Jen Tsuei
+  - Cheng-Lun Chiang
+  - Yi-Chen Tsai
+  - Huey-Ling Chen
+  - Mei-Hwei Chang
+  publisher: Pediatric Research
+  date: '2010-01-01'
+  link: https://doi.org/dw3dpq
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.CCR-09-3389
+  title: Sorafenib Overcomes TRAIL Resistance of Hepatocellular Carcinoma Cells through
+    the Inhibition of STAT3
+  authors:
+  - Kuen-Feng Chen
+  - Wei-Tien Tai
+  - Tsung-Hao Liu
+  - Hsiang-Po Huang
+  - Yu-Chin Lin
+  - Chung-Wai Shiau
+  - Pui-Kai Li
+  - Pei-Jer Chen
+  - Ann-Lii Cheng
+  publisher: Clinical Cancer Research
+  date: '2010-10-31'
+  link: https://doi.org/ck9xtq
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/jcb.22740
+  title: "Transcription activation of myostatin by trichostatin A in differentiated\
+    \ C<sub>2</sub>C<sub>12</sub> myocytes via ASK1\u2010MKK3/4/6\u2010JNK and p38\
+    \ mitogen\u2010activated protein kinase pathways"
+  authors:
+  - "Der\u2010Sheng Han"
+  - "Hsiang\u2010Po Huang"
+  - "Tyng\u2010Guey Wang"
+  - "Meng\u2010Yu Hung"
+  - "Jia\u2010Yu Ke"
+  - "Kuei\u2010Ting Chang"
+  - "Hsin\u2010Yu Chang"
+  - "Yu\u2010Ping Ho"
+  - "Wei\u2010Yuan Hsieh"
+  - "Wei\u2010Shiung Yang"
+  publisher: Journal of Cellular Biochemistry
+  date: '2010-06-21'
+  link: https://doi.org/dvf5rh
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Eye anomalies and neurological manifestations in patients with PAX6 mutations.
+  date: '2022-05-23'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-73449142524&partnerID=MN8TOARS
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1523/JNEUROSCI.4497-06.2007
+  title: Mice Deficient in Collapsin Response Mediator Protein-1 Exhibit Impaired
+    Long-Term Potentiation and Impaired Spatial Learning and Memory
+  authors:
+  - Kang-Yi Su
+  - Wei-Lin Chien
+  - Wen-Mei Fu
+  - I-Shing Yu
+  - Hsiang-Po Huang
+  - Pei-Hsing Huang
+  - Shu-Rung Lin
+  - Jin-Yuan Shih
+  - Yi-Ling Lin
+  - Yi-Ping Hsueh
+  - Pan-Chyr Yang
+  - Shu-Wha Lin
+  publisher: The Journal of Neuroscience
+  date: '2007-03-07'
+  link: https://doi.org/fk88v9
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Tandem mass neonatal screening in Taiwan - Report from one center
+  date: '2022-05-23'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-33845874403&partnerID=MN8TOARS
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1440-1746.2005.03789.x
+  title: "Differential integration rates of hepatitis\u2003B virus DNA in the liver\
+    \ of children with chronic hepatitis\u2003B virus infection and hepatocellular\
+    \ carcinoma"
+  authors:
+  - "HSIANG\u2010PO HUANG"
+  - "DAW\u2010JEN TSUEI"
+  - "KUAN\u2010JAN WANG"
+  - "YING\u2010LIEN CHEN"
+  - "YEN\u2010HSUAN NI"
+  - "YUNG\u2010MING JENG"
+  - "HUEY\u2010LING CHEN"
+  - "HONG\u2010YUAN HSU"
+  - "MEI\u2010HWEI CHANG"
+  publisher: Journal of Gastroenterology and Hepatology
+  date: '2005-07-01'
+  link: https://doi.org/btxfjb
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Viral infections and prolonged fever after liver transplantation in young
+    children with inborn errors of metabolism
+  date: '2022-05-23'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-33644648049&partnerID=MN8TOARS
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0887-8994(03)00418-1
+  title: Arachnoid cyst with GnRH-dependent sexual precocity and growth hormone deficiency
+  authors:
+  - Hsiang-Po Huang
+  - Yi-Ching Tung
+  - Wen-Yu Tsai
+  - Meng-Fai Kuo
+  - Shinn-Forng Peng
+  publisher: Pediatric Neurology
+  date: '2004-02-01'
+  link: https://doi.org/fsrtwr
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'Kawasaki disease associated with chickenpox: Report of two sibling cases'
+  date: '2022-05-23'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-3142758626&partnerID=MN8TOARS
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1210/me.16.3.541
+  title: "Neogenesis of \_-Cells in Adult BETA2/NeuroD-Deficient Mice"
+  authors:
+  - H.-p. Huang
+  publisher: Molecular Endocrinology
+  date: '2002-03-01'
+  link: https://doi.org/djszvn
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.141234898
+  title: "<i>Tbx19</i>\n            , a tissue-selective regulator of POMC gene expression"
+  authors:
+  - Jianxiang Liu
+  - Chijen Lin
+  - Anatoli Gleiberman
+  - Kenneth A. Ohgi
+  - Thomas Herman
+  - Hsiang-Po Huang
+  - Ming-Jer Tsai
+  - Michael G. Rosenfeld
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2001-07-10'
+  link: https://doi.org/cg6gjw
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/MCB.20.9.3292-3307.2000
+  title: "Regulation of the Pancreatic Islet-Specific Gene\n                    <i>BETA2</i>\n\
+    \                    (\n                    <i>neuroD</i>\n                  \
+    \  ) by Neurogenin 3"
+  authors:
+  - Hsiang-Po Huang
+  - Min Liu
+  - Heithem M. El-Hodiri
+  - Khoi Chu
+  - Milan Jamrich
+  - Ming-Jer Tsai
+  publisher: Molecular and Cellular Biology
+  date: '2000-05-01'
+  link: https://doi.org/b368m8
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Transcription factors involved in pancreatic islet development
+  date: '2022-05-23'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-0033955566&partnerID=MN8TOARS
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S1054-3589(08)60114-3
+  title: Pancreatic Islet Development
+  authors:
+  - Debra E. Bramblett
+  - Hsiang-Po Huang
+  - Ming-Jer Tsai
+  publisher: Advances in Pharmacology
+  date: '1999-01-01'
+  link: https://doi.org/ccttps
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Diabetes, defective pancreatic morphogenesis, and abnormal enteroendocrine
+    differentiation in BETA2/NeuroD-deficient mice
+  date: '2022-05-23'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-0030886674&partnerID=MN8TOARS
+  orcid: 0000-0002-3382-305X
+  plugin: orcid.py
+  file: orcid.yaml
+- title: BETA3, a novel helix-loop-helix protein, can act as a negative regulator
+    of BETA2 and MyoD-responsive genes
+  date: '2022-05-23'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-0030048769&partnerID=MN8TOARS
+  orcid: 0000-0002-3382-305X
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -201,9 +1093,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -220,21 +1109,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
