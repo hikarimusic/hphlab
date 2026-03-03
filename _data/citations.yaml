@@ -510,15 +510,6 @@
   Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
-- title: Characteristic expression of major histocompatibility complex and immune
-    privilege genes in human pluripotent stem cells and their derivatives
-  publisher: Cell Transplantation
-  date: '2022-05-24'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84928954783&partnerID=MN8TOARS
-  orcid: 0000-0002-3382-305X
-  Hsiang-Po Huang: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1186/s13287-015-0005-5
   title: Granulosa cell-derived induced pluripotent stem cells exhibit pro-trophoblastic
     differentiation potential
@@ -970,13 +961,6 @@
   Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
-- title: Eye anomalies and neurological manifestations in patients with PAX6 mutations.
-  date: '2022-05-23'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-73449142524&partnerID=MN8TOARS
-  orcid: 0000-0002-3382-305X
-  Hsiang-Po Huang: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1523/JNEUROSCI.4497-06.2007
   title: Mice Deficient in Collapsin Response Mediator Protein-1 Exhibit Impaired
     Long-Term Potentiation and Impaired Spatial Learning and Memory
@@ -996,13 +980,6 @@
   publisher: The Journal of Neuroscience
   date: '2007-03-07'
   link: https://doi.org/fk88v9
-  orcid: 0000-0002-3382-305X
-  Hsiang-Po Huang: true
-  plugin: orcid.py
-  file: orcid.yaml
-- title: Tandem mass neonatal screening in Taiwan - Report from one center
-  date: '2022-05-23'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-33845874403&partnerID=MN8TOARS
   orcid: 0000-0002-3382-305X
   Hsiang-Po Huang: true
   plugin: orcid.py
@@ -1028,14 +1005,6 @@
   Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
-- title: Viral infections and prolonged fever after liver transplantation in young
-    children with inborn errors of metabolism
-  date: '2022-05-23'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-33644648049&partnerID=MN8TOARS
-  orcid: 0000-0002-3382-305X
-  Hsiang-Po Huang: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1016/S0887-8994(03)00418-1
   title: Arachnoid cyst with GnRH-dependent sexual precocity and growth hormone deficiency
   authors:
@@ -1047,13 +1016,6 @@
   publisher: Pediatric Neurology
   date: '2004-02-01'
   link: https://doi.org/fsrtwr
-  orcid: 0000-0002-3382-305X
-  Hsiang-Po Huang: true
-  plugin: orcid.py
-  file: orcid.yaml
-- title: 'Kawasaki disease associated with chickenpox: Report of two sibling cases'
-  date: '2022-05-23'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-3142758626&partnerID=MN8TOARS
   orcid: 0000-0002-3382-305X
   Hsiang-Po Huang: true
   plugin: orcid.py
@@ -1105,13 +1067,6 @@
   Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
-- title: Transcription factors involved in pancreatic islet development
-  date: '2022-05-23'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-0033955566&partnerID=MN8TOARS
-  orcid: 0000-0002-3382-305X
-  Hsiang-Po Huang: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1016/S1054-3589(08)60114-3
   title: Pancreatic Islet Development
   authors:
@@ -1121,22 +1076,6 @@
   publisher: Advances in Pharmacology
   date: '1999-01-01'
   link: https://doi.org/ccttps
-  orcid: 0000-0002-3382-305X
-  Hsiang-Po Huang: true
-  plugin: orcid.py
-  file: orcid.yaml
-- title: Diabetes, defective pancreatic morphogenesis, and abnormal enteroendocrine
-    differentiation in BETA2/NeuroD-deficient mice
-  date: '2022-05-23'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-0030886674&partnerID=MN8TOARS
-  orcid: 0000-0002-3382-305X
-  Hsiang-Po Huang: true
-  plugin: orcid.py
-  file: orcid.yaml
-- title: BETA3, a novel helix-loop-helix protein, can act as a negative regulator
-    of BETA2 and MyoD-responsive genes
-  date: '2022-05-23'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-0030048769&partnerID=MN8TOARS
   orcid: 0000-0002-3382-305X
   Hsiang-Po Huang: true
   plugin: orcid.py
