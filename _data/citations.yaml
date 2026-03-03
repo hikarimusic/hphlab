@@ -92,82 +92,6 @@
   Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1158/0008-5472.c.6514205
-  title: Data from CD248 Regulates Wnt Signaling in Pericytes to Promote Angiogenesis
-    and Tumor Growth in Lung Cancer
-  authors:
-  - Chia-Lun Hong
-  - I-Shing Yu
-  - Chen-Hsueh Pai
-  - Jin-Shing Chen
-  - Min-Shu Hsieh
-  - Hua-Lin Wu
-  - Shu-Wha Lin
-  - Hsiang-Po Huang
-  publisher: American Association for Cancer Research (AACR)
-  date: '2023-03-31'
-  link: https://doi.org/hbq9hv
-  orcid: 0000-0002-3382-305X
-  Hsiang-Po Huang: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1158/0008-5472.c.6514205.v1
-  title: Data from CD248 Regulates Wnt Signaling in Pericytes to Promote Angiogenesis
-    and Tumor Growth in Lung Cancer
-  authors:
-  - Chia-Lun Hong
-  - I-Shing Yu
-  - Chen-Hsueh Pai
-  - Jin-Shing Chen
-  - Min-Shu Hsieh
-  - Hua-Lin Wu
-  - Shu-Wha Lin
-  - Hsiang-Po Huang
-  publisher: American Association for Cancer Research (AACR)
-  date: '2023-03-31'
-  link: https://doi.org/hbq9hw
-  orcid: 0000-0002-3382-305X
-  Hsiang-Po Huang: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1158/0008-5472.22432658
-  title: Supplementary Data from CD248 Regulates Wnt Signaling in Pericytes to Promote
-    Angiogenesis and Tumor Growth in Lung Cancer
-  authors:
-  - Chia-Lun Hong
-  - I-Shing Yu
-  - Chen-Hsueh Pai
-  - Jin-Shing Chen
-  - Min-Shu Hsieh
-  - Hua-Lin Wu
-  - Shu-Wha Lin
-  - Hsiang-Po Huang
-  publisher: American Association for Cancer Research (AACR)
-  date: '2023-03-31'
-  link: https://doi.org/hbq9hx
-  orcid: 0000-0002-3382-305X
-  Hsiang-Po Huang: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1158/0008-5472.22432658.v1
-  title: Supplementary Data from CD248 Regulates Wnt Signaling in Pericytes to Promote
-    Angiogenesis and Tumor Growth in Lung Cancer
-  authors:
-  - Chia-Lun Hong
-  - I-Shing Yu
-  - Chen-Hsueh Pai
-  - Jin-Shing Chen
-  - Min-Shu Hsieh
-  - Hua-Lin Wu
-  - Shu-Wha Lin
-  - Hsiang-Po Huang
-  publisher: American Association for Cancer Research (AACR)
-  date: '2023-03-31'
-  link: https://doi.org/hbq9hz
-  orcid: 0000-0002-3382-305X
-  Hsiang-Po Huang: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1242/dmm.049471
   title: An induced pluripotent stem cell-based model identifies molecular targets
     of vincristine neurotoxicity
@@ -241,31 +165,6 @@
   publisher: British Journal of Cancer
   date: '2020-09-23'
   link: https://doi.org/hbq9h6
-  orcid: 0000-0002-3382-305X
-  Hsiang-Po Huang: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1038/s41598-020-60001-w
-  title: 'Author Correction: The Kunitz Domain I of Hepatocyte Growth Factor Activator
-    Inhibitor-2 Inhibits Matriptase Activity and Invasive Ability of Human Prostate
-    Cancer Cells'
-  authors:
-  - Shang-Ru Wu
-  - Chen-Hsin Teng
-  - Ya-Ting Tu
-  - Chun-Jung Ko
-  - Tai-Shan Cheng
-  - Shao-Wei Lan
-  - Hsin-Ying Lin
-  - Hsin-Hsien Lin
-  - Hsin-Fang Tu
-  - Pei-Wen Hsiao
-  - Hsiang-Po Huang
-  - Chung-Hsin Chen
-  - Ming-Shyue Lee
-  publisher: Scientific Reports
-  date: '2020-02-13'
-  link: https://doi.org/hbq9h7
   orcid: 0000-0002-3382-305X
   Hsiang-Po Huang: true
   plugin: orcid.py
