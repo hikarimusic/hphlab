@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our publications span the fields of serine protease biology, iPSC-based disease modeling, and the role of CD248 in the tumor microenvironment. Browse our highlighted and full list of works below.
 
 {% include section.html %}
 

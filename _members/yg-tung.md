@@ -1,6 +1,6 @@
 ---
 name: Yeu-Guang Tung
-image: images/yg-tung.png
+image: images/yg-tung.jpg
 role: undergrad
 description: M.D. Student
 affiliation: National Taiwan University
