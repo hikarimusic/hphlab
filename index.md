@@ -3,7 +3,7 @@
 
 # HSP Lab's Website
 
-Graduate Institute of Medical Genomics and Proteomics, College of Medicine, National Taiwan University, Taipei, Taiwan
+Graduate Institute of Medical Genomics and Proteomics, College of Medicine, National Taiwan University, Taipei, Taiwan 
 
 {% include section.html %}
 
