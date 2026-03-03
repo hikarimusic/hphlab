@@ -203,8 +203,8 @@
   link: https://doi.org/hbq9h3
   orcid: 0000-0002-3382-305X
   Hsiang-Po Huang: true
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1073/pnas.2203632119
   title: "Neuronal splicing regulator RBFOX3 mediates seizures via regulating\n  \
     \          <i>Vamp1</i>\n            expression preferentially in NPY-expressing\
