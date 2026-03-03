@@ -5,6 +5,6 @@
 
   # hikarimusic's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[hikarimusic.github.io/hphlab](https://hikarimusic.github.io/hphlab)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
