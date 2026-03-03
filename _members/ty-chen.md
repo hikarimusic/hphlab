@@ -10,7 +10,7 @@ aliases:
 links: {}
 ---
 
-Tzu-Yu Chen is a Ph.D. student in the HSP Lab. Her research focuses on the role of serine proteases and their inhibitors in cancer biology.
+Tzu-Yu Chen is a Ph.D. student in the HPH Lab. Her research focuses on the role of serine proteases and their inhibitors in cancer biology.
 
 #### Selected Publication
 
