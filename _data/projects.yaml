@@ -3,7 +3,7 @@
   group: featured
   image: images/serine_protease.jpg
   link: https://github.com/
-  description: Investigates the hierarchical regulatory roles of membrane-bound serine proteases and their inhibitors in epithelial homeostasis and tumor progression. Our lab discovered that specific serine proteases and inhibitors play important but opposing roles in hepatic stem cell differentiation and cholangiopathy such as biliary atresia. Current efforts use human pluripotent stem cells, knockout mouse models, and omics approaches to systematically dissect their roles in stem cell differentiation, organ development, and prostate cancer tumor stem cells.
+  description: Investigates the hierarchical regulatory roles of membrane-bound serine proteases and their inhibitors in epithelial homeostasis and tumor progression, and dissects their functions in stem cell differentiation, organ development, and prostate cancer tumor stem cells.
   repo: greenelab/lab-website-template
   tags:
     - resource
@@ -14,7 +14,7 @@
   group: featured
   image: images/iPSC_MPS.png
   link: https://github.com/
-  description: Uses induced pluripotent stem cell (iPSC) technology to establish _in vitro_ models of human genetic diseases for studying disease mechanisms and screening potential therapeutics. Our lab generated the world's first peer-reviewed human Pompe disease iPSCs (Human Molecular Genetics, 2011) and later identified therapeutic small molecules using iPSC-derived neurons (Human Molecular Genetics, 2019). Current work extends to other lysosomal storage disorders such as mucopolysaccharidosis, revealing morphological and electrophysiological abnormalities in patient-derived neurons, and to familial autism spectrum disorder iPSC modeling in collaboration with psychiatry and neuroscience groups.
+  description: Uses induced pluripotent stem cell (iPSC) technology to establish in vitro models of human genetic diseases, including Pompe disease and mucopolysaccharidosis, for studying disease mechanisms, screening potential therapeutics, and modeling familial autism spectrum disorder.
   repo: greenelab/lab-website-template
   tags:
     - resource
@@ -25,7 +25,7 @@
   group: featured
   image: images/CD248.jpg
   link: https://github.com/
-  description: Studies CD248, a membrane protein highly expressed on pericyte precursor cells, and its role in cancer. Using CD248 knockout mice, we found that CD248 promotes lung cancer progression within the tumor microenvironment by activating the Wnt/beta-catenin pathway to upregulate angiogenesis factor transcription and stimulate tumor neovascularization. Beyond cancer, CD248 also plays important roles in the maintenance, differentiation, and plasticity of pericyte progenitors, which our lab is actively investigating.
+  description: Studies CD248, a membrane protein highly expressed on pericyte precursor cells, and its role in promoting lung cancer progression through the Wnt/beta-catenin pathway, as well as its functions in pericyte progenitor maintenance, differentiation, and plasticity.
   repo: greenelab/lab-website-template
   tags:
     - resource
