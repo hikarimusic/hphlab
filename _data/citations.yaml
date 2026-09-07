@@ -131,8 +131,8 @@
   file: orcid.yaml
 - id: doi:10.1073/pnas.2203632119
   title: "Neuronal splicing regulator RBFOX3 mediates seizures via regulating\n  \
-    \          <i>Vamp1</i>\n            expression preferentially in NPY-expressing\
-    \ GABAergic neurons"
+    \                  <i>Vamp1</i>\n                    expression preferentially\
+    \ in NPY-expressing GABAergic neurons"
   authors:
   - De-Fong Huang
   - Chih-Yu Lee
@@ -327,23 +327,6 @@
   publisher: Oncogene
   date: '2017-04-03'
   link: https://doi.org/f9xpkj
-  orcid: 0000-0002-3382-305X
-  Hsiang-Po Huang: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.18632/oncotarget.15308
-  title: NRIP/DCAF6 stabilizes the androgen receptor protein by displacing DDB2 from
-    the CUL4A-DDB1 E3 ligase complex in prostate cancer
-  authors:
-  - Hsin-Hsiung Chen
-  - Ping Fan
-  - Szu-Wei Chang
-  - Yeou-Ping Tsao
-  - Hsiang-Po Huang
-  - Show-Li Chen
-  publisher: Oncotarget
-  date: '2017-02-14'
-  link: https://doi.org/f9rb7c
   orcid: 0000-0002-3382-305X
   Hsiang-Po Huang: true
   plugin: orcid.py
@@ -653,27 +636,6 @@
   Hsiang-Po Huang: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.gep.2011.03.001
-  title: Gene targeting and expression analysis of mouse Tem1/endosialin using a lacZ
-    reporter
-  authors:
-  - Hsiang-Po Huang
-  - Chia-Lun Hong
-  - Chung-Yang Kao
-  - Shu-Wha Lin
-  - Shu-Rung Lin
-  - Hua-Lin Wu
-  - Guey-Yueh Shi
-  - Li-Ru You
-  - Chieh-Lin Wu
-  - I-Shing Yu
-  publisher: Gene Expression Patterns
-  date: '2011-06-01'
-  link: https://doi.org/c54pkr
-  orcid: 0000-0002-3382-305X
-  Hsiang-Po Huang: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1093/hmg/ddr424
   title: Human Pompe disease-induced pluripotent stem cells for pathogenesis modeling,
     drug testing and disease marker identification
@@ -931,7 +893,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1073/pnas.141234898
-  title: "<i>Tbx19</i>\n            , a tissue-selective regulator of POMC gene expression"
+  title: "<i>Tbx19</i>\n                    , a tissue-selective regulator of POMC\
+    \ gene expression"
   authors:
   - Jianxiang Liu
   - Chijen Lin
